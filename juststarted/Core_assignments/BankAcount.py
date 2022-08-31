@@ -132,6 +132,12 @@ chookies = BankAccount(0.40, 30000000000 )
 
 
 
+# when you do return statement make sure you don't do print statement of that method. That creates issues in the terminal. you have to have return statements for each terminal to do chaining. 
+
+
+
+
+
 
 
 
